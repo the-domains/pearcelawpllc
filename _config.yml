@@ -1,0 +1,28 @@
+name: PearceLawPLLC
+favicon: null
+layout_spectrum: 0.39441353641450405
+typography_spectrum: 0.1603085605893284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15454582776874304
+  lightness: 0.9726778801996261
+  saturation: 0.6695683877915144
+  rhythmicContrast: 0.06184831354767084
+purpose: []
